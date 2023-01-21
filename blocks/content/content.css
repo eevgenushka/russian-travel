@@ -1,0 +1,20 @@
+.content {
+  min-width: 320px;
+  margin: 0 auto;
+  display: grid;
+  gap: 92px 0;
+  justify-items: center;
+}
+
+@media screen and (max-width: 780px) {
+  .content {
+    gap: 88px 0;
+  }
+}
+
+
+@media screen and (max-width: 360px) {
+  .content {
+    gap: 64px 0;
+  }
+}
