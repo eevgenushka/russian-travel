@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-Ознакомиться с проектом можно здесь: * [Ссылка на проект](https://eevgenushka.github.io/russian-travel/)
+Ознакомиться с проектом можно здесь: * [Путешествия по России](https://eevgenushka.github.io/russian-travel/)
 ### Обзор
 * Интро
 * Figma
