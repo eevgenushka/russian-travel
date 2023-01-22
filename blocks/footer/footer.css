@@ -5,17 +5,16 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 768px) {
-  .footer {
+@media screen and (max-width: 780px) {
+    .footer {
     max-width: 720px;
     padding: 88px 24px 24px;
+    }
   }
-}
-
-@media screen and (max-width: 570px) {
-  .footer {
+@media screen and (max-width: 716px) {
+    .footer {
     padding: 64px 16px 24px;
-    flex-direction: column;
-    align-items: flex-start;
+      flex-direction: column;
+      align-items: flex-start;
+    }
   }
-}
